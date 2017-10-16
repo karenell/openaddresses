@@ -24,6 +24,7 @@
         ],
         "unit": "SITUS_UNIT_NUMBER",
         "city": "CITY_NAME",
+        "county": "COUNTY",
         "region": "STATE",
         "postcode": "ZIP_CODE"
     }
